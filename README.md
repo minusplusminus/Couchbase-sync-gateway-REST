@@ -22,7 +22,7 @@ var SyncGateway = new (require('sync-gateway'))('http://[USERNAME]:[PASSWORD]@[H
 
 ## functions 
 
-### get([docId])
+### get(docId)
 ```js
 SyncGateway.get(docId)
     .then(function (response) {
@@ -32,16 +32,16 @@ SyncGateway.get(docId)
         
     })
 ```
-### post([doc])
+### post({doc})
 ```js
 SyncGateway.post(doc)
 ```
 
-### put([doc])
+### put({doc})
 ```js
 SyncGateway.put(doc)
 ```
-### del([doc])
+### del({doc})
 ```js
 SyncGateway.del(doc)
 ```
