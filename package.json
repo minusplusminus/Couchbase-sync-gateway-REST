@@ -1,6 +1,6 @@
 {
   "name": "Couchbase-sync-gateway-REST",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Couchbase Mobile Sync Gateway REST wrapper",
   "homepage": "http://minusplusminus.com",
   "author": {
