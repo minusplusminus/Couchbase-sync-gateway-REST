@@ -2,13 +2,13 @@
   "name": "Couchbase-sync-gateway-REST",
   "version": "0.1.7",
   "description": "Couchbase Mobile Sync Gateway REST wrapper",
-  "homepage": "https://github.com/minusplusminus/sync-gateway",
+  "homepage": "http://minusplusminus.com",
   "author": {
     "name": "Martijn Mellema",
     "email": "ask@minusplusminus.com",
     "url": "https://github.com/minusplusminus"
   },
-  "repository": "minusplusminus/sync-gateway",
+  "repository": "minusplusminus/Couchbase-sync-gateway-REST",
   "license": "MIT",
   "main": "./lib/sync_gateway.js",
   "keywords": [
