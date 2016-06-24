@@ -13,10 +13,41 @@ $ npm install --save sync-gateway
 ## Usage
 
 ```js
-var SyncGateway = require('sync-gateway');
+
+var SyncGateway = new (require('sync-gateway'))('http://[USERNAME]:[PASSWORD]@[HOSTNAME]:[PORT]',[DATABASE]);
 
 ```
 
+## functions 
+
+### get([docId])
+```js
+SyncGateway.get(docId)
+    .then(function (response) {
+
+    })
+    .catch(function (err) {
+        
+    })
+```
+### post([doc])
+```js
+SyncGateway.post(doc)
+```
+
+### put([doc])
+```js
+SyncGateway.put(doc)
+```
+### del([doc])
+```js
+SyncGateway.del(doc)
+```
+
+### purge([docIds],[channels])
+```js
+SyncGateway.purge(docIds,["*","info","!"])
+```
 
 ## License
 
