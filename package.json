@@ -1,5 +1,5 @@
 {
-  "name": "Couchbase sync-gateway REST",
+  "name": "Couchbase-sync-gateway-REST",
   "version": "0.1.7",
   "description": "Couchbase Mobile Sync Gateway REST wrapper",
   "homepage": "https://github.com/minusplusminus/sync-gateway",

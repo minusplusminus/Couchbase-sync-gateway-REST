@@ -1,6 +1,8 @@
 #  [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
 > Couchbase Mobile Sync Gateway REST wrapper
+Initial code from: https://github.com/luismanuel001/sync-gateway
+
 
 
 ## Install
