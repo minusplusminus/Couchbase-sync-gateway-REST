@@ -8,7 +8,7 @@ Initial code from: https://github.com/luismanuel001/sync-gateway
 ## Install
 
 ```sh
-$ npm install --save sync-gateway
+$ npm install Couchbase-sync-gateway-REST
 ```
 
 
