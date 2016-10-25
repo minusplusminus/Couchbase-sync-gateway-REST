@@ -1,4 +1,4 @@
-#  [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+#  [![Dependency Status][daviddm-image]][daviddm-url]
 
 > Couchbase Mobile Sync Gateway REST wrapper
 Initial code from: https://github.com/luismanuel001/sync-gateway
@@ -56,9 +56,9 @@ SyncGateway.purge(docIds,["*","info","!"])
 MIT © [Luis Manuel](https://github.com/luismanuel001)
 
 
-[npm-image]: https://badge.fury.io/js/sync-gateway.svg
-[npm-url]: https://npmjs.org/package/sync-gateway
-[travis-image]: https://travis-ci.org/luismanuel001/sync-gateway.svg?branch=master
-[travis-url]: https://travis-ci.org/luismanuel001/sync-gateway
-[daviddm-image]: https://david-dm.org/luismanuel001/sync-gateway.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/luismanuel001/sync-gateway
+[npm-image]: https://badge.fury.io/js/minusplusminus/Couchbase-sync-gateway-REST.svg
+[npm-url]: https://npmjs.org/package/minusplusminus/Couchbase-sync-gateway-REST
+[travis-image]: https://travis-ci.org/minusplusminus/Couchbase-sync-gateway-REST.svg?branch=master
+[travis-url]: https://travis-ci.org/minusplusminus/Couchbase-sync-gateway-REST
+[daviddm-image]: https://david-dm.org/minusplusminus/Couchbase-sync-gateway-REST.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/minusplusminus/Couchbase-sync-gateway-REST.svg
